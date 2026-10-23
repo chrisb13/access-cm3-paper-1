@@ -70,7 +70,28 @@ markdown_extensions:
 # once a CM3 experiment has been run and pushed -- nothing has been
 # pushed through this site yet, so there's only Home for now.
 nav:
-  - Home: pages/index.md
+- Home: pages/index.md
+- autocorrelation_and_amplitude:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/autocorrelation_and_amplitude.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/autocorrelation_and_amplitude.ipynb
+- flux-conservation:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/flux-conservation.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/flux-conservation.ipynb
+- global-time-series:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/global-time-series.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/global-time-series.ipynb
+- salinity:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/salinity.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/salinity.ipynb
+- SST_trend_global:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/SST_trend_global.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/SST_trend_global.ipynb
+- TOA_CRE:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/TOA_CRE.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/TOA_CRE.ipynb
+- water-conservation:
+  - Summary: pages/experiments/cm3-run-27-07-2026-PD-control/water-conservation.md
+  - Notebook: pages/experiments/cm3-run-27-07-2026-PD-control/notebooks/water-conservation.ipynb
 
 extra:
   generator: false
