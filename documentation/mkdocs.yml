@@ -70,7 +70,100 @@ markdown_extensions:
 # once a CM3 experiment has been run and pushed -- nothing has been
 # pushed through this site yet, so there's only Home for now.
 nav:
-  - Home: pages/index.md
+- Home: pages/index.md
+- autocorrelation_and_amplitude:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/autocorrelation_and_amplitude.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/autocorrelation_and_amplitude.ipynb
+- Bottom_age_tracer_in_ACCESS_OM3:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Bottom_age_tracer_in_ACCESS_OM3.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Bottom_age_tracer_in_ACCESS_OM3.ipynb
+- Currents_streamfunction_variability:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Currents_streamfunction_variability.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Currents_streamfunction_variability.ipynb
+- Equatorial_pacific:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Equatorial_pacific.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Equatorial_pacific.ipynb
+- flux-conservation:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/flux-conservation.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/flux-conservation.ipynb
+- global-time-series:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/global-time-series.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/global-time-series.ipynb
+- MeridionalHeatTransport:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/MeridionalHeatTransport.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/MeridionalHeatTransport.ipynb
+- MLD:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/MLD.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/MLD.ipynb
+- MLD_manual:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/MLD_manual.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/MLD_manual.ipynb
+- MLD_max:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/MLD_max.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/MLD_max.ipynb
+- Overturning_in_ACCESS_OM3:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Overturning_in_ACCESS_OM3.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Overturning_in_ACCESS_OM3.ipynb
+- pPV:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/pPV.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/pPV.ipynb
+- salinity:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/salinity.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/salinity.ipynb
+- SeaIce_area:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SeaIce_area.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SeaIce_area.ipynb
+- SeaIce_mass_budget_climatology:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SeaIce_mass_budget_climatology.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SeaIce_mass_budget_climatology.ipynb
+- SeaIce_speed:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SeaIce_speed.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SeaIce_speed.ipynb
+- SeaIce_Vol:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SeaIce_Vol.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SeaIce_Vol.ipynb
+- SSH:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SSH.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SSH.ipynb
+- SSS:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SSS.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SSS.ipynb
+- SST:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SST.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SST.ipynb
+- SST_trend_global:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/SST_trend_global.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/SST_trend_global.ipynb
+- StraitTransports:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/StraitTransports.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/StraitTransports.ipynb
+- temp-salt-vs-depth-latitude:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/temp-salt-vs-depth-latitude.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/temp-salt-vs-depth-latitude.ipynb
+- temp-salt-vs-depth-time:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/temp-salt-vs-depth-time.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/temp-salt-vs-depth-time.ipynb
+- timeseries:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/timeseries.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/timeseries.ipynb
+- Timeseries_daily_extreme_from_2D_fields:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Timeseries_daily_extreme_from_2D_fields.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Timeseries_daily_extreme_from_2D_fields.ipynb
+- TOA_CRE:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/TOA_CRE.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/TOA_CRE.ipynb
+- Transects:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Transects.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Transects.ipynb
+- Transects-mixing:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/Transects-mixing.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/Transects-mixing.ipynb
+- water-conservation:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/water-conservation.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/water-conservation.ipynb
+- WM_evaluation:
+  - Summary: pages/experiments/cm3-run-20-01-2026-om3-update/WM_evaluation.md
+  - Notebook: pages/experiments/cm3-run-20-01-2026-om3-update/notebooks/WM_evaluation.ipynb
 
 extra:
   generator: false
